@@ -1,0 +1,27 @@
+{
+  "brand": "Te Equipamos",
+  "items": [
+    {
+      "active": true,
+      "type": "sale",
+      "sections": [
+        "Ventas"
+      ],
+      "title": "Dos ajustes, plantilla EVA y verano: una sandalia sencilla que sabe para qué terreno nació",
+      "summary": "Quechua NH100 de hombre para senderos naturales, con plantilla EVA extraíble y doble ajuste.",
+      "details": "Landing de producto con galería, características y contacto comercial.",
+      "image": "https://contents.mediadecathlon.com/p2406037/k$b3c196aa3b82fb78ca9da8e9d79ba4b2/picture.jpg?f=1600x0&format=auto",
+      "time": "Producto · Senderismo",
+      "score": 89,
+      "featured": false,
+      "direct": true,
+      "tags": [
+        "sandalias",
+        "senderismo",
+        "hombre",
+        "verano"
+      ],
+      "url": "https://jorgesport.github.io/te-equipamos-nh100-sandalias/"
+    }
+  ]
+}
