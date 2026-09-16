@@ -1,22 +1,42 @@
 {
   "brand": "Te Equipamos",
-  "schema_version": 2,
+  "schema_version": 3,
   "items": [
     {
       "active": true,
       "type": "sale",
-      "sections": ["Ventas"],
-      "activities": ["senderismo"],
+      "sections": [
+        "Ventas"
+      ],
+      "activities": [
+        "senderismo"
+      ],
       "product_type": "sandalias",
-      "title": "Dos ajustes, plantilla EVA y verano: una sandalia sencilla que sabe para qué terreno nació",
-      "summary": "Quechua NH100 de hombre para senderos naturales, con plantilla EVA extraíble y doble ajuste.",
-      "details": "Landing de producto con galería, características y contacto comercial.",
+      "title": "Sandalias de senderismo Quechua NH100 para hombre: comodidad y ajuste",
+      "card_title": "Sandalias Quechua NH100: comodidad y ajuste para caminar este verano",
+      "seo_title": "Sandalias Quechua NH100 para hombre: análisis y ajuste",
+      "seo_description": "Descubre las sandalias Quechua NH100 para hombre: plantilla EVA extraíble, doble ajuste y suela diseñada para caminar por senderos naturales.",
+      "seo_keywords": [
+        "sandalias senderismo hombre",
+        "Quechua NH100",
+        "sandalias trekking",
+        "plantilla EVA",
+        "calzado outdoor Perú"
+      ],
+      "summary": "Camina con más comodidad en senderos naturales: plantilla EVA extraíble, doble ajuste y tallas del 39 al 48.",
+      "details": "Análisis de las Quechua NH100 para hombre con peso, ajuste, plantilla extraíble, suela, tallas, galería y contacto comercial.",
       "image": "https://contents.mediadecathlon.com/p2406037/k$b3c196aa3b82fb78ca9da8e9d79ba4b2/picture.jpg?f=1600x0&format=auto",
       "time": "Producto · Senderismo",
       "score": 89,
       "featured": false,
       "direct": true,
-      "tags": ["sandalias", "senderismo", "hombre", "verano"],
+      "tags": [
+        "sandalias",
+        "senderismo",
+        "hombre",
+        "verano",
+        "Quechua NH100"
+      ],
       "url": "https://jorgesport.github.io/te-equipamos-nh100-sandalias/"
     }
   ]
